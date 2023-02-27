@@ -17,6 +17,15 @@ $ git config -l
 
 
  git config --global user.name "bonalasaiprakash"
+ 
+ 
+ 
+ git branch dev                           to create new brnch
+ git branch                             to show  all branches 
+ git checkout dev           to switch  to that branch 
+  git branch -d dev          to delete  git branch 
+
+
 
 
 
